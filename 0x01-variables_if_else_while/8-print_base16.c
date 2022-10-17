@@ -16,7 +16,7 @@ int main(void)
 	{
 		putchar(digits[i]);
 	}
-	for (y = 'A'; y <= 'F'; y++)
+	for (y = 'a'; y <= 'f'; y++)
 	{
 		putchar(y);
 	}
